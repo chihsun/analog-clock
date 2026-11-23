@@ -1,0 +1,9 @@
+.gradle/
+.gradle-cache/
+.idea/
+build/
+**/build/
+local.properties
+*.iml
+app/src/main/assets/*.ttf
+app/src/main/assets/OFL.txt
